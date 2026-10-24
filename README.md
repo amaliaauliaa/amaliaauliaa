@@ -9,14 +9,9 @@ Data Science & Data Engineering student. I build data pipelines and turn raw dat
 
 ## Featured Project
 
-### [Indonesia Food Price Tracker](https://github.com/amaliaauliaa/Indonesia-Food-Price-Tracker-v.2.git)
-ETL pipeline that collects daily staple food prices for 34 provinces from PIHPS Nasional (Bank Indonesia), cleans them, and loads them into a database for trend analysis.
+### [Bali Nusa Tenggara Energy Pipeline](https://github.com/amaliaauliaa/Bali-Nusa-Tenggara-Energy-Pipeline.git)
+Data pipeline for hourly solar and wind weather data across Bali and Nusa Tenggara, built with Python, pandas, and SQLite.
 
-- Raw and processed data layers, so transform bugs can be fixed without re-downloading
-- Idempotent loads: re-running a date never creates duplicates
-- Retry, rate limiting, and an abort threshold when too many requests fail
-
-**Stack:** Python · Parquet 
 
 ---
 
