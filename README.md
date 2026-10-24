@@ -1,5 +1,5 @@
 # Hi, I'm amalia
-I'm exploring **Data Science** and **Machine Learning**, turning raw datasets
+I'm exploring **Data Science** and **Data Engineering**, turning raw datasets
 into clear, actionable insights.
 
 ---
